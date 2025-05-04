@@ -32,11 +32,12 @@ Test the program python script `test_project.py` with [pytest](https://docs.pyte
 ```
 pytest test_project.py
 ```
+```
 After successfully running the program, it will prompt for a value from 1 - 9.
 
 Then it will check for valid value if yes it will mark it.
 
 this will continue unitl game draw or user wins.
-
+```
 ## References
 [^1]: [tabulate library](https://github.com/astanin/python-tabulate)
